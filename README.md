@@ -8,4 +8,5 @@ I summaries the key for unlocking each problem. Please give a :star: if it inspi
 
 \# | Title | Difficulty | Solution
 ---|---|---|---
-1 | Two Sum | Easy | [Solution](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/two_sum.py)
+1 | Two Sum | Easy | [Use dictionary](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/two_sum.py)
+85 | Maximal Rectangle | Hard | [2D to 1D and use Stack](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/maximal_rectangle.py)
