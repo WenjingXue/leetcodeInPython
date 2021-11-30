@@ -8,4 +8,4 @@ I summaries the key for unlocking each problem. Please give a :star: if it inspi
 
 \# | Title | Difficulty | Solution
 ---|---|---|---
-1 | Two Sum | Easy | [Solution](leetcode/1.%20Two%20Sum)
+1 | Two Sum | Easy | [Solution](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/two_sum.py)
