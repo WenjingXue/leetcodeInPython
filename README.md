@@ -1,4 +1,4 @@
-# leetcodeInPython
+# leetcode In Python
 
 Author: [github.com/wenjingxue](https://github.com/wenjingxue)
 
