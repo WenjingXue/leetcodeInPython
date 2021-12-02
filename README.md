@@ -11,3 +11,4 @@ I summaries the key for unlocking each problem. Please give a :star: if it inspi
 1 | Two Sum | Easy | [Use dictionary](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/two_sum.py)
 85 | Maximal Rectangle | Hard | [2D to 1D and use Stack](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/maximal_rectangle.py)
 198 | House Robber | Medium | [Dynamic Programming](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/house_robber.py)
+328 | Odd Even Linked List | Medium | [Use two point to track progress](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/odd_even.py)
