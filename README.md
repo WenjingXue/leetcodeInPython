@@ -3,7 +3,7 @@
 Author: [github.com/wenjingxue](https://github.com/wenjingxue)
 
 [General Data Structure](#general-data-structure)  
-[Leet code solutions](# My Python Solution for LeetCode OJ.)
+[Leet code solutions](#leetcode-solution-in-python)
 
 ### General Data Structure
 Those can speed up the problem solving.
@@ -13,7 +13,7 @@ Those can speed up the problem solving.
 1 | [Trie]() | String/Dictionary | https://en.wikipedia.org/wiki/Trie
 
 
-# My Python Solution for LeetCode OJ.
+# LeetCode Solution in Python
 
 I summaries the key for unlocking each problem. Please give a :star: if it inspired you.
 
