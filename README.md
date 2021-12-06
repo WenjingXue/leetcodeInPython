@@ -13,7 +13,7 @@ Those can speed up the problem solving.
 1 | [Trie]() | String/Dictionary | https://en.wikipedia.org/wiki/Trie
 
 
-# LeetCode Solution in Python
+### LeetCode Solution in Python
 
 I summaries the key for unlocking each problem. Please give a :star: if it inspired you.
 
