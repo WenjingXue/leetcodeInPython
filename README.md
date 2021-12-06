@@ -2,7 +2,16 @@
 
 Author: [github.com/wenjingxue](https://github.com/wenjingxue)
 
-My Python Solution for LeetCode OJ.
+
+
+# Some General Data Structure that can Speed up the problem solving
+
+\# | Name | Use | Wiki Link
+---|---|---|---
+1 | [Trie]() | String/Dictionary | https://en.wikipedia.org/wiki/Trie
+
+
+#My Python Solution for LeetCode OJ.
 
 I summaries the key for unlocking each problem. Please give a :star: if it inspired you.
 
