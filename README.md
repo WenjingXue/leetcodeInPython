@@ -2,10 +2,11 @@
 
 Author: [github.com/wenjingxue](https://github.com/wenjingxue)
 
-[General Data Structure](#some)  
+[General Data Structure](#general-data-structure)  
 [Leet code solutions](# My Python Solution for LeetCode OJ.)
 
-# Some General Data Structure that can Speed up the problem solving
+### General Data Structure
+Those can speed up the problem solving.
 
 \# | Name | Use | Wiki Link
 ---|---|---|---
