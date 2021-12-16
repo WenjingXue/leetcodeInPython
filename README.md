@@ -31,3 +31,4 @@ I summaries the key for unlocking each problem. Please give a :star: if it inspi
 2096 | Step-By-Step Directions From a Binary Tree Node to Another | Medium | [Depth first search]( https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/Step_by_step_directions_from_a_binary_tree_node_to_another.py )
 2100 | Find Good Days to Rob the Bank | Medium | [local minimum searching](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/Find_good_days_to_rob_the_bank.py)
 2101 | Detonate the Maximum Bombs | Medium | [BFS and DFS](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/Detonate_the_maximum_bombs.py)
+2103 | Rings and Rods | Easy | [hashmap](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/Rings_and_rods.py)
