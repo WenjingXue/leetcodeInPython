@@ -23,6 +23,7 @@ I summaries the key for unlocking each problem. Please give a :star: if it inspi
 85 | Maximal Rectangle | Hard | [2D to 1D and use Stack](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/maximal_rectangle.py)
 147 | Insertion Sort List | Medium | [Linklist sorting](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/Insertion_sort_list.py)
 198 | House Robber | Medium | [Dynamic Programming](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/house_robber.py)
+231 | Power Of Two | Easy | [Bitwise Operator](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/Power_Of_Two.py)
 300 | Longest Increasing Sequence | Medium | [Intelligently Build a Subsequence with Binary Search](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/Longest_Increasing_Subsequence.py)
 328 | Odd Even Linked List | Medium | [Use two pointers to track progress](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/odd_even.py)
 938 | Range Sum of BST | Easy| [BST](https://github.com/WenjingXue/leetcodeInPython/commit/41ada531380db873d1cb0332ab66f39be03c2b89)
