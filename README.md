@@ -26,6 +26,7 @@ I summaries the key for unlocking each problem. Please give a :star: if it inspi
 231 | Power Of Two | Easy | [Bitwise Operator](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/Power_Of_Two.py)
 300 | Longest Increasing Sequence | Medium | [Intelligently Build a Subsequence with Binary Search](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/Longest_Increasing_Subsequence.py)
 328 | Odd Even Linked List | Medium | [Use two pointers to track progress](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/odd_even.py)
+399 | Evaluate Division | Medium | [Union Find](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/Evaluate_Division.py)
 938 | Range Sum of BST | Easy| [BST](https://github.com/WenjingXue/leetcodeInPython/commit/41ada531380db873d1cb0332ab66f39be03c2b89)
 1217 | Minimum Cost to Move Chips to The Same Position | Easy | [Math](https://github.com/WenjingXue/leetcodeInPython/blob/main/leetcode/move_chips.py)
 1446 | Consecutive Characters | Easy| [Comparison within string](leetcode/Consecutive_Characters.py)
